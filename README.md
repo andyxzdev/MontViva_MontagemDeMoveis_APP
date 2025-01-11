@@ -1,2 +1,2 @@
 # MontViva_MontagemDeMoveis_APP
- Projeto em desenvolvimento de um app de montagens de moveis 
+ Projeto em desenvolvimento de um app de montagens de moveis usando Flutter/Dart
